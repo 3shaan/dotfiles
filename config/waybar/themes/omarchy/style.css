@@ -23,6 +23,14 @@ window#waybar {
     margin: 8px 10px 8px 0px;
 }
 
+#tray {
+  margin-right: 16px;
+}
+
+#custom-expand-icon {
+  margin-right: 20px;
+}
+
 #workspaces button {
     all: initial;
     padding: 0 6px;
@@ -41,7 +49,6 @@ window#waybar {
 #clock,
 #battery,
 #custom-exit,
-#custom-updates,
 #custom-openwebui,
 #custom-brightness,
 #custom-hypridle,
