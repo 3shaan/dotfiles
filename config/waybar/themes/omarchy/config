@@ -46,6 +46,7 @@
 
     // Modules Right
     "modules-right": [
+        "group/tray-expander",
         "custom/updates",
         "pulseaudio",
         "bluetooth",
